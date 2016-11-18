@@ -1,5 +1,16 @@
 @charset "utf-8";
 body {
 		background-color:#000000;
+		font-family: 'Bungee Inline', cursive;
+		text-align:center;
+		font-size:500%;
+		padding:auto;
+	}
+	
+img {
+		width:10%;
 	}
 
+#logo {
+		width:50%;
+	}
